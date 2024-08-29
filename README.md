@@ -1,4 +1,5 @@
 # Neural Network - Alphabet Soup Charity Analysis
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHY2MjVhN2tlZ2p0cGM3cmllZzE1OTZkZ2Ixa2MwaTV1eng3ZGN1cyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/dY1NlvpfpGmEwo9rFw/giphy.webp" alt="GIF">
 
 This project focuses on building and optimizing a deep learning model to predict the success of charity funding applications for the Alphabet Soup organization. The dataset includes various features related to the charity applications, and the goal is to create a binary classification model to determine whether an application will be successful.
 
@@ -15,6 +16,8 @@ From Alphabet Soup’s business team, we received a CSV containing more than 34,
 ![image](https://github.com/user-attachments/assets/d91afd61-f7c8-4023-afc0-663669ae93df)
 
 - Neural Network Model: This indicates the type of machine learning model being used. A neural network model is a computational model inspired by the human brain’s network of neurons. It consists of layers of interconnected nodes (neurons) that process data through various transformations to learn patterns and make predictions.
+
+<img src="https://media2.giphy.com/media/ftAyb0CG1FNAIZt4SO/200.webp?cid=790b76117ii0tf8busfwyx3wv04ku2azl4evc3u6m6nlo3p0&ep=v1_gifs_search&rid=200.webp&ct=g" alt="GIF">
 
 ## Technologies Used:
 - TensorFlow
