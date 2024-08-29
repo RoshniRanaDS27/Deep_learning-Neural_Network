@@ -8,6 +8,8 @@ This project focuses on building and optimizing a deep learning model to predict
 
 The purpose of this project was to develop a machine learning model capable of predicting the success rate of charity applications. The project involved data preprocessing, model building, and optimization using a neural network implemented with TensorFlow.
 
+- Neural Network Model: This indicates the type of machine learning model being used. A neural network model is a computational model inspired by the human brain’s network of neurons. It consists of layers of interconnected nodes (neurons) that process data through various transformations to learn patterns and make predictions.
+
 ## Steps Completed
 ### Dependencies
 ![image](https://github.com/user-attachments/assets/f8cca40c-475c-4f53-a87f-9dd44c2f97c0)
