@@ -51,6 +51,8 @@ The purpose of this project was to develop a machine learning model capable of p
 
 ## Conclusion
 
+### Report - 
+
 The deep learning model successfully predicted the success of charity funding applications with reasonable accuracy. Although further optimization was performed, the model's final accuracy remained slightly below the target threshold of 75%. Future work could involve exploring different model architectures or using alternative machine learning techniques to further improve performance.
 
 ## Files Included
