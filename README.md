@@ -7,21 +7,33 @@ This project focuses on building and optimizing a deep learning model to predict
 The purpose of this project was to develop a machine learning model capable of predicting the success rate of charity applications. The project involved data preprocessing, model building, and optimization using a neural network implemented with TensorFlow.
 
 ## Steps Completed
+### Dependencies
+![image](https://github.com/user-attachments/assets/f8cca40c-475c-4f53-a87f-9dd44c2f97c0)
 
 ### 1. Data Preprocessing
 
 - The dataset was preprocessed by removing non-beneficial columns (`EIN` and `NAME`).
+  ![image](https://github.com/user-attachments/assets/de87c05d-b88a-49e0-a3f7-d3dd331853b1)
+  - ![image](https://github.com/user-attachments/assets/078844b0-d44b-4ecc-b8f7-ab82bac549a6)
+
 - Categorical data was encoded using `pd.get_dummies()`.
 - The dataset was split into training and testing sets.
+- ![image](https://github.com/user-attachments/assets/1453db19-e71b-4d95-b663-3c6cb1c62607)
+
 - The features were scaled using `StandardScaler()` to prepare them for model training.
 
 ### 2. Compile, Train, and Evaluate the Model
 
 - A neural network model was defined with an input layer, two hidden layers, and an output layer using TensorFlow and Keras.
+  
+![image](https://github.com/user-attachments/assets/739f20d4-c4e2-4e5e-aee9-677eacc50cc6)
+
 - The model was compiled using a binary cross-entropy loss function and an Adam optimizer.
 - The model was trained on the preprocessed training data, with early stopping callbacks to monitor performance.
 - After training, the model was evaluated on the test data to determine its loss and accuracy.
 - The initial model achieved an accuracy of approximately 73.26%.
+- ![image](https://github.com/user-attachments/assets/f6f35e1c-941d-450e-8389-06554bde0269)
+
 
 ### 3. Model Optimization
 
@@ -33,6 +45,9 @@ The purpose of this project was to develop a machine learning model capable of p
 
 - **Loss:** 0.5552
 - **Accuracy:** 73.26%
+
+![image](https://github.com/user-attachments/assets/ea49c5a0-564c-4771-86c2-498a075b0e48)
+
 
 ## Conclusion
 
