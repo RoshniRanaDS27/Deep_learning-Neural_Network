@@ -7,7 +7,7 @@ This project focuses on building and optimizing a deep learning model to predict
 
 ## Project Overview
 
-With our knowledge of machine learning and neural networks, we used the features in the provided dataset to create a binary classifier that is capable of predicting whether applicants will be successful if funded by Alphabet Soup.
+With our knowledge of machine learning and neural networks, we used the features in the provided dataset to create a binary classifier that is capable of predicting whether applicants will be successful if funded by Alphabet Soup. 
 
 The purpose of this project was to develop a machine learning model capable of predicting the success rate of charity applications. The project involved data preprocessing, model building, and optimization using a neural network implemented with TensorFlow.
 
